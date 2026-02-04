@@ -41,8 +41,8 @@ const achievements: Achievement[] = [
   },
   {
     title: "Coming Soon",
-    event: "Your Next Achievement",
-    project: "Stay tuned...",
+    event: "Waiting for the next opportunity...",
+    project: "The journey continues",
     year: "2025",
     icon: Star,
     highlight: false,
