@@ -39,6 +39,14 @@ const achievements: Achievement[] = [
     image: "/placeholder.svg",
     imageAlt: "Finalist Certificate - Secure Actsmart Hackathon",
   },
+  {
+    title: "Coming Soon",
+    event: "Your Next Achievement",
+    project: "Stay tuned...",
+    year: "2025",
+    icon: Star,
+    highlight: false,
+  },
 ];
 
 const AchievementsSection = () => {
